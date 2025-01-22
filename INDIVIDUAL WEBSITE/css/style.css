@@ -179,25 +179,6 @@ p, ul
     margin-bottom: 30px;
 }
 
-footer
-{
-    background-color: #ff0000;
-    color: rgb(255, 0, 0);
-    text-align: center;
-    padding: 20px;
-    position: relative;
-    bottom: 0;
-    width: 100%;
-}
-
-footer p 
-{
-    margin: 0;
-    font-size: 1.1em;
-    color: #fbfbfb;
-}
-
-
 
 .special-section 
 {
@@ -431,14 +412,6 @@ nav a:hover, nav a.active {
 .gallery-item video {
     max-height: 200px;
 }
-footer {
-    text-align: center;
-    background-color: #000000;
-    color: rgb(255, 255, 255);
-    padding: 10px 0;
-    margin-top: 20px;
-    font-size: 14px;
-}
 
 
 body {
@@ -563,16 +536,6 @@ nav a:hover, nav a.active {
 .social-media img:hover {
     transform: scale(1.2);
 }
-
-footer {
-    text-align: center;
-    background-color: #000000;
-    color: white;
-    padding: 10px 0;
-    margin-top: 20px;
-    font-size: 14px;
-}
-
 
 
 body {
@@ -761,4 +724,22 @@ h1 {
         width: 250px;
         height: 250px;
     }
+}
+
+footer
+{
+    background-color: #ff0000;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p 
+{
+    margin: 0;
+    font-size: 1.1em;
+    color: #fbfbfb;
 }
